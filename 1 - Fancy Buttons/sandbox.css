@@ -90,7 +90,7 @@
 }
   .btn-3d-1::before{
     position: absolute;
-    display: block;
+    /*display: block;*/
     content: "";
     height: 0;
     width: 0;
@@ -104,7 +104,7 @@
 
   .btn-3d-1::after{
     position: absolute;
-    display: block;
+    /*display: block;*/
     content: "";
     height: 0;
     width: 0;
